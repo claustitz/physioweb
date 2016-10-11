@@ -43,17 +43,21 @@ padding-top: 75%;
 .frontpage {
   background: url('{{ site.github.url }}/images/lavender_camera.jpg') center center /cover no-repeat;
   min-height: 100vh;
-  margin-top: -53.6px;
-  padding-top: 53.6px;
+  margin-top: -78px;
+  padding-top: 20px;
 }
 
 .center-block {
   display: block;
+  text-align: center;
   width: 75%;
   margin-top: 5%;
   margin-left: auto;
   margin-right: auto;
   color: honeydew;
+  font-family: Calibri;
+	text-shadow: .15rem .15rem .35rem #000;
+
 }
 
 .change_color {
@@ -74,7 +78,7 @@ padding-top: 75%;
   min-height: 100vh;
   color: honeydew;
   margin: auto;
-  margin-top : -23.6px;
+  margin-top : -29px;
   font-family: Calibri;
 	text-shadow: .15rem .15rem .35rem #000;
 }

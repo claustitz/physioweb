@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-gems: [jekyll-paginate, jekyll-seo-tag]
+gems: [jekyll-seo-tag]
 #title: Physiotheraphie fd
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Praxis für Naturheilkunde und Physiotherapie von Claudia Nostitz in Sehlen auf Rügen.
-baseurl: "/physioweb" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "claustitz.github.io" # the base hostname & protocol for your site
 # github_username:  jekyll
 
